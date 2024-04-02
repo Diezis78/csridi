@@ -43,7 +43,7 @@ body {
 /* !стили для header */
 .page-header {
 	padding: 30px 0 125px;
-	background-image: url("/header.jpg");
+	background-image: url("./header.jpg");
 	background-color: #1c2141;
 	background-repeat: no-repeat;
 	background-position: center center;
