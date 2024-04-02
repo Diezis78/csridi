@@ -201,7 +201,7 @@ body {
 
 @media screen and (max-width: 640px) {
 	.page-header {
-		min-height: 640px;
+		min-height: auto ;
 		padding: 30px 0 220px;
 		background-image: url("../img/banner-mobile.jpg");
 	}
@@ -996,8 +996,9 @@ body {
 		display: none;
 	}
 	.page-header {
-		padding: 30px 0 125px;
+		padding: 1px 1px 125px;
 		background-image: url('https://sun9-74.userapi.com/impf/c633820/v633820284/23598/GNg9So0jz9Q.jpg?size=354x354&quality=96&sign=e3845421114db0e0f4bd9c07bef25087&type=album');
+		width: 100%;
 	}
 	.product-wrp {
 		width: 100%;
